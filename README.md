@@ -1,6 +1,6 @@
 # Bootstrap's Tabs and Lazy Data Loading in AngularJS
 
-This repository is the demo code for the article Bootstrap's Tabs and Lazy Data Loading in AngularJS on the Xebia blog.
+This repository is the demo code for the article Bootstrap's Tabs and Lazy Data Loading in AngularJS.
 
 ## Blog Article
 
